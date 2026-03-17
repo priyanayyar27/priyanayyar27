@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **Product Marketing & GTM strategist** with **10+ years of experience** scaling products across global markets, now pursuing my **MSBA at UC Davis** to deepen my technical analytics capabilities. I've led cross-functional teams at enterprises such as **GSK and Agoda (Booking Holdings)** and at startups such as **Novelship and Vaniday**, driving product adoption, optimizing ROI, and building data-driven strategies that deliver measurable business impact.
+I'm a **Product Marketing & GTM strategist** with **10+ years of experience** scaling products across global markets, now pursuing my **MSBA (STEM) at UC Davis** to deepen my technical analytics capabilities. I've led cross-functional teams at enterprises such as **GSK and Agoda (Booking Holdings)** and at startups such as **Novelship and Vaniday**, driving product adoption, optimizing ROI, and building data-driven strategies that deliver measurable business impact.
 
 Currently pivoting into **Product Management roles** where I can combine my proven track record in GTM execution with analytics skills in Python, SQL, and ML to build products that solve real customer problems.
 
@@ -23,7 +23,7 @@ Currently pivoting into **Product Management roles** where I can combine my prov
 
 ### 💼 Currently
 📍 **Based in:** San Francisco Bay Area (Santa Clara, CA)  
-🎓 **Pursuing:** MSBA at UC Davis (GPA: 3.83, graduating June 2026)  
+🎓 **Pursuing:** MSBA at UC Davis (Graduating June 2026)  
 🔍 **Seeking:** Product Management, Product Marketing, RevOps, Strategy roles  
 
 ### 🏆 Career Highlights
@@ -62,14 +62,13 @@ Currently pivoting into **Product Management roles** where I can combine my prov
 
 ## 📊 Featured Projects
 
-> 🚧 **Building in public!** Showcasing my technical analytics skills through hands-on projects.
+> 🧬 **Building in public!** Showcasing AI × Pharma × Health through hands-on projects.
 
 | Project | Focus Area | Tech Stack | Status |
 |---------|-----------|------------|--------|
-| **Product Analytics Dashboard** | User engagement, retention, churn metrics | Python, Tableau, SQL | 🔜 Coming Soon |
-| **A/B Test Analysis Framework** | Experimental design & statistical inference | Python, R, SQL | 🔜 Coming Soon |
-| **SQL Business Intelligence** | KPI tracking & business questions | PostgreSQL, Python | 🔜 Coming Soon |
-| **Competitive Intelligence Tool** | Web scraping & sentiment analysis | Python, BeautifulSoup | 🔜 Coming Soon |
+| [**LabSentinel**](https://github.com/priyanayyar27/labsentinel) | AI-powered pharma lab image auditing against SOPs — flags compliance gaps in seconds | NVIDIA Nemotron (Vision + Reasoning), Python, Streamlit | 🏆 GTC 2026 Golden Ticket Contest |
+| [**Sigveil**](https://github.com/priyanayyar27/sigveil) | Pharmacovigilance intelligence platform — drug-level ADR detection from FDA data | Google MedGemma 1.5 4B, Python, Kaggle | 🏆 MedGemma Impact Challenge |
+| [**Elsie**](https://github.com/priyanayyar27/elsie-grocery-coach) | Real-time AI grocery coach — reads your lab report, watches shelves, tells you what to grab | Gemini 2.0 Flash (Live API), FastAPI, Google Cloud Run | 🏆 Gemini Live Agent Challenge |
 
 ---
 
