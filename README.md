@@ -28,7 +28,6 @@ Currently pivoting into **Product Management roles** where I can combine my prov
 
 ### 🏆 Career Highlights
 - **GSK (Singapore):** Led GTM strategy across 24 markets for Respiratory & Vaccines, managed £5M budget
-- **Peakflo:** Built LLM evaluation frameworks and RAG pipelines for agentic enterprise AI platform automating finance operations for 100+ enterprises
 - **Agoda/Booking Holdings:** Streamlined lead routing and acquisition metrics for USA market launch
 - **Novelship:** Scaled merchant acquisition 5x, drove 30% retention improvement as Dept Head reporting to CEO
 - **Vaniday/Rocket Internet:** Built B2B platform from ground up, $0 → $10M GMV in 18 months
