@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Program Manager** with **10+ years of experience** architecting program strategy for cross-organizational sales tools, agency tooling, and 3P ecosystem programs across global markets, now pursuing my **MSBA (STEM) at UC Davis** to deepen my technical and AI capabilities. I've led program delivery at enterprises such as **GSK and Agoda (Booking Holdings)** and at startups such as **Peakflo (YC W22), Novelship, and Vaniday**, building governance frameworks, OKRs, and program operating models that turned ambiguity into delivered outcomes.
+I'm a **Senior Program Manager** with **10+ years of experience** architecting program strategy for cross-organizational sales tools, agency tooling, and 3P ecosystem programs across global markets, now pursuing my **MSBA (STEM) at UC Davis** to deepen my technical and AI capabilities. I've led program delivery at enterprises such as **GSK and Agoda (Booking Holdings)** and at startups such as **Novelship, and Vaniday**, building governance frameworks, OKRs, and program operating models that turned ambiguity into delivered outcomes.
 
 Currently focused on **Senior Program Manager and Technical Program Manager roles** where I can combine proven cross-functional program leadership with hands-on AI and analytics fluency to drive measurable business impact at scale.
 
@@ -27,7 +27,6 @@ Currently focused on **Senior Program Manager and Technical Program Manager role
 🔍 **Seeking:** Senior Program Manager, Technical Program Manager, Program Operations, Cross-Functional Program Lead roles  
 
 ### 🏆 Career Highlights
-- **Peakflo (YC W22):** Coordinated 100+ enterprise AI deployments across Salesforce and HubSpot CRM integrations, delivered 100% on-time release across 2 product orgs for 11 consecutive months
 - **GSK (Singapore):** Architected program strategy for 24 concurrent brand-market launches across EU and APAC, partnered with Publicis Groupe, Four Health Media, LinkedIn, and Meta on £50M of media spend
 - **Agoda/Booking Holdings:** Architected program strategy for 0-to-1 short-term rentals USA launch in a matrixed global organization
 - **Novelship:** Reported to CEO managing 9-FTE cross-functional program, scaled $0 to $10M GMV in 18 months
@@ -70,6 +69,7 @@ Currently focused on **Senior Program Manager and Technical Program Manager role
 | [**LabSentinel**](https://github.com/priyanayyar27/labsentinel) | End-to-end program delivery: AI compliance auditing, multimodal pipeline, deterministic scoring | NVIDIA Nemotron (Vision + Reasoning), Python, Streamlit | 🏆 GTC 2026 Golden Ticket Contest |
 | [**Sigveil**](https://github.com/priyanayyar27/sigveil) | End-to-end program delivery: pharmacovigilance platform, agentic ADR detection workflow | Google MedGemma 1.5 4B, Python, Kaggle | 🏆 MedGemma Impact Challenge |
 | [**Elsie**](https://github.com/priyanayyar27/elsie-grocery-coach) | End-to-end program delivery: real-time conversational AI agent on Google's GenAI stack | Gemini 2.0 Flash (Live API), FastAPI, Google Cloud Run | 🏆 Gemini Live Agent Challenge |
+| [**Nonprofit Resilience Intelligence**](https://github.com/priyanayyar27) | End-to-end program delivery: stewardship intelligence engine on 7 yrs of IRS Form 990 data across 5,000 nonprofits, built in 24 hrs | Random Forest (ROC-AUC 0.80), Python, Pandas, scikit-learn | 🥇 1st Place, AggieHacks 2026 (UC Davis MSBA) |
 
 ---
 
