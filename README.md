@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Product+Leader+%7C+10%2B+Years;GTM+Strategy+%2B+Analytics;Building+Data-Driven+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Senior+Program+Manager+%7C+10%2B+Years;Cross-Functional+Program+Strategy+%2B+AI;Architecting+Programs+That+Ship)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,27 +10,28 @@
 
 ## 🚀 About Me
 
-I'm a **Product Marketing & GTM strategist** with **10+ years of experience** scaling products across global markets, now pursuing my **MSBA (STEM) at UC Davis** to deepen my technical analytics capabilities. I've led cross-functional teams at enterprises such as **GSK and Agoda (Booking Holdings)** and at startups such as **Novelship and Vaniday**, driving product adoption, optimizing ROI, and building data-driven strategies that deliver measurable business impact.
+I'm a **Senior Program Manager** with **10+ years of experience** architecting program strategy for cross-organizational sales tools, agency tooling, and 3P ecosystem programs across global markets, now pursuing my **MSBA (STEM) at UC Davis** to deepen my technical and AI capabilities. I've led program delivery at enterprises such as **GSK and Agoda (Booking Holdings)** and at startups such as **Peakflo (YC W22), Novelship, and Vaniday**, building governance frameworks, OKRs, and program operating models that turned ambiguity into delivered outcomes.
 
-Currently pivoting into **Product Management roles** where I can combine my proven track record in GTM execution with analytics skills in Python, SQL, and ML to build products that solve real customer problems.
+Currently focused on **Senior Program Manager and Technical Program Manager roles** where I can combine proven cross-functional program leadership with hands-on AI and analytics fluency to drive measurable business impact at scale.
 
 ### 🎯 What I Bring to the Table
-**10 years of Product & GTM Leadership** across B2B, digital platforms, and global pharmaceutical  
-**Data-Driven Mindset:** Built dashboards, analyzed behavioral datasets, and optimized conversion funnels  
-**Cross-Functional Leadership:** Led teams of 9+ FTEs and influenced without authority across 24 global markets  
-**Technical Skills:** Python, SQL, R, Tableau, Power BI, ML, Salesforce, HubSpot, Veeva   
-**Proven Impact:** Scaled products from $0 to $10M GMV, increased customer retention by 30%, drove 17% ROI improvement in category growth
+**10+ Years of Program & GTM Leadership** across enterprise pharma, B2B SaaS, marketplaces, and startups  
+**Architecting Program Strategy:** Built program charters, OKRs, governance frameworks, and operating cadences from zero  
+**Cross-Organizational Coordination:** Led 24 concurrent product launches at GSK across EU and APAC, partnering with Publicis Groupe and Four Health Media on £50M of media spend  
+**Hands-On AI & Technical:** Python, SQL, R, NVIDIA Nemotron, Google Gemini, Google MedGemma, Salesforce, HubSpot, Veeva  
+**Proven Impact:** $0 to $10M GMV, 17% ROI on £50M media, 100% on-time release across 100+ enterprise AI deployments
 
 ### 💼 Currently
 📍 **Based in:** San Francisco Bay Area (Santa Clara, CA)  
 🎓 **Pursuing:** MSBA at UC Davis (Graduating June 2026)  
-🔍 **Seeking:** Product Management, Product Marketing, RevOps, Strategy roles  
+🔍 **Seeking:** Senior Program Manager, Technical Program Manager, Program Operations, Cross-Functional Program Lead roles  
 
 ### 🏆 Career Highlights
-- **GSK (Singapore):** Led GTM strategy across 24 markets for Respiratory & Vaccines, managed £5M budget
-- **Agoda/Booking Holdings:** Streamlined lead routing and acquisition metrics for USA market launch
-- **Novelship:** Scaled merchant acquisition 5x, drove 30% retention improvement as Dept Head reporting to CEO
-- **Vaniday/Rocket Internet:** Built B2B platform from ground up, $0 → $10M GMV in 18 months
+- **Peakflo (YC W22):** Coordinated 100+ enterprise AI deployments across Salesforce and HubSpot CRM integrations, delivered 100% on-time release across 2 product orgs for 11 consecutive months
+- **GSK (Singapore):** Architected program strategy for 24 concurrent brand-market launches across EU and APAC, partnered with Publicis Groupe, Four Health Media, LinkedIn, and Meta on £50M of media spend
+- **Agoda/Booking Holdings:** Architected program strategy for 0-to-1 short-term rentals USA launch in a matrixed global organization
+- **Novelship:** Reported to CEO managing 9-FTE cross-functional program, scaled $0 to $10M GMV in 18 months
+- **Vaniday/Rocket Internet:** Owned end-to-end project delivery across 15+ partner integrations, built B2B platform $0 to $10M GMV
 
 ---
 
@@ -46,7 +47,7 @@ Currently pivoting into **Product Management roles** where I can combine my prov
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### Product & Marketing Stack
+### Program & CRM Stack
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
@@ -62,13 +63,13 @@ Currently pivoting into **Product Management roles** where I can combine my prov
 
 ## 📊 Featured Projects
 
-> 🧬 **Building in public!** Showcasing AI × Pharma × Health through hands-on projects.
+> 🧬 **Building in public!** Showcasing AI × Pharma × Health through end-to-end program delivery on hands-on builds.
 
 | Project | Focus Area | Tech Stack | Status |
 |---------|-----------|------------|--------|
-| [**LabSentinel**](https://github.com/priyanayyar27/labsentinel) | AI-powered pharma lab image auditing against SOPs — flags compliance gaps in seconds | NVIDIA Nemotron (Vision + Reasoning), Python, Streamlit | 🏆 GTC 2026 Golden Ticket Contest |
-| [**Sigveil**](https://github.com/priyanayyar27/sigveil) | Pharmacovigilance intelligence platform — drug-level ADR detection from FDA data | Google MedGemma 1.5 4B, Python, Kaggle | 🏆 MedGemma Impact Challenge |
-| [**Elsie**](https://github.com/priyanayyar27/elsie-grocery-coach) | Real-time AI grocery coach — reads your lab report, watches shelves, tells you what to grab | Gemini 2.0 Flash (Live API), FastAPI, Google Cloud Run | 🏆 Gemini Live Agent Challenge |
+| [**LabSentinel**](https://github.com/priyanayyar27/labsentinel) | End-to-end program delivery: AI compliance auditing, multimodal pipeline, deterministic scoring | NVIDIA Nemotron (Vision + Reasoning), Python, Streamlit | 🏆 GTC 2026 Golden Ticket Contest |
+| [**Sigveil**](https://github.com/priyanayyar27/sigveil) | End-to-end program delivery: pharmacovigilance platform, agentic ADR detection workflow | Google MedGemma 1.5 4B, Python, Kaggle | 🏆 MedGemma Impact Challenge |
+| [**Elsie**](https://github.com/priyanayyar27/elsie-grocery-coach) | End-to-end program delivery: real-time conversational AI agent on Google's GenAI stack | Gemini 2.0 Flash (Live API), FastAPI, Google Cloud Run | 🏆 Gemini Live Agent Challenge |
 
 ---
 
@@ -77,19 +78,19 @@ Currently pivoting into **Product Management roles** where I can combine my prov
 - 📈 **Advanced Statistics:** Causal inference, regression analysis, experimental design
 - 💾 **Database Management:** SQL optimization, data modeling, ETL pipelines
 - 🤖 **Machine Learning:** Predictive modeling, clustering, feature engineering
-- 📊 **Product Analytics:** Metrics frameworks, user behavior analysis, growth analytics
+- 📊 **Program Analytics:** Metrics frameworks, stakeholder dashboards, outcome measurement
 
 ---
 
-## 💡 Product Leadership Philosophy
+## 💡 Program Leadership Philosophy
 
-As a product leader with both business and technical expertise, I approach problems with:
+As a program leader with both business and technical expertise, I approach problems with:
 
-✅ **Customer-Centric Strategy** - Build for market needs backed by data insights  
-✅ **Cross-Functional Influence** - Bridge technical teams and business stakeholders  
-✅ **Data-Driven Decisions** - Let metrics guide GTM and product roadmaps  
-✅ **Execution Excellence** - Ship products that deliver measurable ROI  
-✅ **Agile Mindset** - Test, learn, iterate (Certified Scrum Product Owner)
+✅ **Architecting from Ambiguity** - Turn loosely defined problems into program charters, OKRs, and delivery roadmaps  
+✅ **Cross-Organizational Influence** - Drive alignment across engineering, product, design, and executive stakeholders without authority  
+✅ **Governance & Risk Management** - Build operating cadences, escalation paths, and risk registers that prevent slips  
+✅ **Data-Driven Decisions** - Let metrics guide program prioritization, resource allocation, and stakeholder communication  
+✅ **Execution Excellence** - Ship programs that deliver measurable business impact (Certified Scrum Product Owner, NCA-AIIO)
 
 ---
 
@@ -114,9 +115,9 @@ As a product leader with both business and technical expertise, I approach probl
 
 <div align="center">
   
-### 🌟 Open to Product Management Opportunities!
+### 🌟 Open to Senior Program Management Opportunities!
 
-*Combining 10+ years of GTM leadership with advanced analytics to build products that drive business impact.*
+*Combining 10+ years of cross-functional program leadership with advanced analytics and hands-on AI to architect programs that ship.*
 
 **Let's connect and build something amazing together!** 🚀
 
@@ -126,4 +127,4 @@ As a product leader with both business and technical expertise, I approach probl
 
 ---
 
-*"The best products are built at the intersection of customer insight, data intelligence, and execution excellence."*
+*"The best programs are architected at the intersection of cross-functional clarity, governance discipline, and measurable outcomes."*
